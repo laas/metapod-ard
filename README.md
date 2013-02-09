@@ -1,3 +1,9 @@
+=======
+metapod-ard
+===========
+
+Abstract Robot Dynamics implementation with metapod
+
 This package implements the adaptor design between the metapod
 package available at:
 https://github.com/laas/metapod.git
@@ -23,3 +29,4 @@ http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
 
 
 Copyright 2013, LAAS/CNRS, Olivier STASSE
+
